@@ -1,0 +1,21 @@
+Client side: clients components are render on the clients .in next.js clients components can also be pre-rendered 
+on the server and hydrated  on the client.
+
+to use a client components in next js create a file inside /app and the "use client" directive at the top of the file before any imports
+
+
+
+========================================================================
+====================================
+
+What is next js ?
+Next.js is a React framework for building full-stack web applications. You use React Components to build user interfaces,
+and Next.js for additional features and optimizations.
+
+
+
+========================================================================
+====================================
+
+
+
