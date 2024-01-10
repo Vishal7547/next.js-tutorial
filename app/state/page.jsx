@@ -2,7 +2,7 @@
 import { useState } from "react";
 
 const page = () => {
-  const [count, setCount] = useState(0);
+  const [count, setCount] = useState();
   return (
     <>
       <h1>{count}</h1>

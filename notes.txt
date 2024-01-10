@@ -19,3 +19,21 @@ and Next.js for additional features and optimizations.
 
 
 
+by default all pages are server side 
+all components are server side
+===============================================================
+============================
+
+We will have not use server components inside clients components if we used then it will show clients components 
+================================================
+================
+we can also keep components inside app directory
+
+
+
+================================================================
+===================
+
+EVENTS && STATE
+------------------------
+
